@@ -14,7 +14,6 @@ A macOS app for organizing and installing Mac applications from a folder you con
 - Verify package hashes and installed app metadata.
 
 ## Screenshot
-![alt text](https://)
  <img src="images/imgy1.jpeg" width="800" alt="Main Window"> 
  <img src="images/imgy2.jpg" width="600" alt="My App Store">
 
