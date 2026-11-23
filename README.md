@@ -15,8 +15,8 @@ A macOS app for organizing and installing Mac applications from a folder you con
 
 ## Screenshot
 ![alt text](https://)
-| <img src="images/imgy1.jpeg" width="400" alt="Main Window"> <br> **Main Window** | 
-| <img src="images/imgy2.jpg" width="400" alt="My App Store"> <br> **My App Store** |
+ <img src="images/imgy1.jpeg" width="800" alt="Main Window"> 
+ <img src="images/imgy2.jpg" width="600" alt="My App Store">
 
 
 ## Requirements and setup
