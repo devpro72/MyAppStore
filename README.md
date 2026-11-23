@@ -36,4 +36,4 @@ The repository folder contains your application packages and `catalog.json`. Kee
 
 ## License
 
-No license has been specified. Contact the copyright holder before reusing or redistributing this project.
+GNU General Public License v3.0
